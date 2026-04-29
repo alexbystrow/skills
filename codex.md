@@ -1,4 +1,3 @@
-cat ~/.claude/skills/codex/skill.md
 ---
 name: codex
 description: Delegate a self-contained task to the Codex CLI to save tokens. Use when the user invokes /codex, or when explicitly asked to offload work to Codex. Good for file exploration, code reading, summarizing, and code generation that doesn't depend on the current conversation context.
